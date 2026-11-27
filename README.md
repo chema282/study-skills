@@ -1,6 +1,6 @@
 # Study Skills — Sistema de aprendizaje en bucle cerrado para agentes de IA
 
-Conjunto de cuatro *skills* (`teach`, `visualize`, `practice` y `distill`) en formato estándar `SKILL.md` para estudiar asignaturas técnicas y de ingeniería sobre tus propios PDFs, diapositivas y código, sin caer en el estudio pasivo ni en la ilusión de competencia.
+Conjunto de cuatro *skills* (`teach`, `visualize`, `practice` y `distill`) en formato estándar `SKILL.md` para estudiar asignaturas técnicas y de ingeniería sobre tus propios PDFs, diapositivas y código, sin caer en el estudio pasivo ni en la ilusión de competencia. El propio sistema se retroalimenta gracias a que almacena información sobre las sesiones de estudio mediante `distill`.
 
 Funciona con **cualquier agente de código/terminal que soporte *skills*** — como **Antigravity**, **Claude Code**, **Gemini CLI**, **Codex** o **Cursor**. No requiere aplicaciones externas: todo corre sobre archivos Markdown locales dentro de la carpeta de cada asignatura (y las notas son opcionalmente compatibles con Obsidian si quieres explorar el grafo).
 
